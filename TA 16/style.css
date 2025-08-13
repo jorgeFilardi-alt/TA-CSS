@@ -1,6 +1,6 @@
 
 
-@media (min-width: 1440px){
+@media (width: 1440px){
     body{
         background-color: red;
     }
@@ -14,7 +14,7 @@
     }
 }
 
-@media (min-width: 768px){
+@media (width: 768px){
     body{
         background-color: green;
     }
@@ -30,7 +30,7 @@
     }
 }
 
-@media (min-width: 425px){
+@media (width: 425px){
     body{
         background-color: blue;
     }
