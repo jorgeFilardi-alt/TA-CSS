@@ -1,0 +1,19 @@
+p{
+    background-color: rgb(236, 152, 178) ;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.mas_grande{
+    font-size: 24px;
+}
+
+.azul_y_grande{
+    color: blue;
+    font-size: 36px;
+}
+
+.verde_negrita_grande{
+    background-color: rgb(156, 209, 156);
+    font-size: 24px;
+    font-weight: bold;
+}
